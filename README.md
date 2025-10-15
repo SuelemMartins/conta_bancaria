@@ -27,10 +27,15 @@ Main.java
 === Conta Bancária ===
 
 Digite o nome do titular: Suelem
+
 Digite o valor inicial: 2.500
+
 Deposite um valor: 200.00
+
 Saque um valor: 100.00
+
 Saldo atual: 600.00
+
 
 💡 Aprendizados
 
@@ -48,20 +53,32 @@ Manipulação de variáveis e lógica básica
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/ContaBancaria.git
+   https/github.com/SuelemMartins/conta_bancaria.git
+
+## 🌟 Deixe sua estrelinha!
+
+Se você gostou do projeto, não esqueça de **dar uma estrelinha ⭐** para apoiar e acompanhar meus próximos projetos! 💖  
+
+---
 
 <div align="center">
 
 🌸 **Obrigada por visitar meu projeto!** 🌸  
 💌 Seu apoio me motiva a continuar aprendendo e criando 💕  
 
-<img src="https://gifs.alphacoders.com/gifs/view/140258" width="200" alt="Sakura sorrindo">  
-*(Esse gif é a Sakura sorrindo/piscando um pouco — caso encontre um específico piscando mais visível, podemos trocar.)*
+<img src="sakura.gif" width="220" alt="Sakura piscando fofinha">
+
+<br>
 
 ✨ **Deixe uma estrelinha!** ✨  
-⭐ 👉 [Clique aqui para dar sua estrela!](#)
+⭐ 👉 [Clique aqui e deixe seu apoio!](#)
+
+<p align="center">
+  Feito com carinho por <b>Suelem Carla Martins</b> 💖  
+</p>
 
 </div>
+
 🧑‍💻 Desenvolvido por
 
 Suelem Carla Martins
