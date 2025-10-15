@@ -26,7 +26,7 @@ Main.java
 
 === Conta Bancária ===
 
-Digite o nome do titular: Suelem
+Digite o nome do titular: Suelem martins
 
 Digite o valor inicial: 2.500
 
@@ -74,14 +74,14 @@ Se você gostou do projeto, não esqueça de **dar uma estrelinha ⭐** para apo
 ⭐ 👉 [Clique aqui e deixe seu apoio!](#)
 
 <p align="center">
-  Feito com carinho por <b>Suelem Carla Martins</b> 💖  
+  Feito com carinho por <b>Suelem Martins</b> 💖  
 </p>
 
 </div>
 
 🧑‍💻 Desenvolvido por
 
-Suelem Carla Martins
+ Suelem Carla Martins
 📍 Blumenau - SC
 📧 suelemnascinto@gmail.com
    
